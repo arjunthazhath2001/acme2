@@ -5,3 +5,6 @@ print("hello all")
 
 
 print("never give up")
+print("never give up")
+print("never give up")
+print("never give up")
